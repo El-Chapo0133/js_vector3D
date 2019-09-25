@@ -1,0 +1,24 @@
+{
+  "name": "js_vector3d",
+  "version": "1.0.0",
+  "description": "Simple class in js for a vector in 3D",
+  "main": "project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/El-Chapo0133/js_vector3D.git"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "vector"
+  ],
+  "author": "Loris Levêque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/El-Chapo0133/js_vector3D/issues"
+  },
+  "homepage": "https://github.com/El-Chapo0133/js_vector3D#readme"
+}
